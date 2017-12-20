@@ -52,6 +52,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Laravel-bookmall 
 基于Laravel开发图书商城项目
+
 ##version 1.0
 2017-12-20 18:00:59
 添加了图书分类,图书列表,图书详情以及购物车数量
